@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KevinLi</string>
+    <string name="quiz_game_label">The big brain quiz!</string>
+    <string name="play_label">Play</string>
+    <string name="image_label">picture</string>
+    <string name="option_one_label">option 1</string>
+    <string name="option_two">option 2</string>
+    <string name="option_three">option 3</string>
+    <string name="option_four">option 4</string>
+    <string name="level_label">Quiz 1/10</string>
+    <string name="guess_label">Guesses: 0</string>
+    <string name="reward_label">end message</string>
+    <string name="message_label">message</string>
+    <string name="user_input_label" />
+</resources>
